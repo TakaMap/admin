@@ -52,8 +52,8 @@ class InfrastructureTypes
      */
     public function getIconpath()
     {
-        $baseur = "http://yugimap.com/admin/pages/";
-        return $baseur.$this->iconpath;
+//        $baseur = "http://yugimap.com/admin/pages/";
+        return $this->iconpath;
     }
 
 
