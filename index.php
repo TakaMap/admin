@@ -129,7 +129,7 @@ require "queries/classes/Infrastructure.php";
                             <img src="images/fluent_data-treemap-20-filled.svg" alt=""/>
                         </div>
                         <div class="stats">
-                            <a href="takamap.com" target="_blank">
+                            <a href="https://takamap.com/" target="_blank">
                                 <p class="label" style="color: #fff">View Map</p>
                             </a>
                         </div>
