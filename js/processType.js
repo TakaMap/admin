@@ -151,7 +151,7 @@ $(document).ready(function () {
           }, 4000);
 
           document.getElementById("approveform").reset();
-          window.location.href = "infrastructure_types";
+          window.location.href = "infrastructure_types.php";
         }
       })
       .catch(console.error);

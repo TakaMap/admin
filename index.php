@@ -64,7 +64,7 @@ require "queries/classes/Infrastructure.php";
 
             <ul class="menu-links">
                 <li class="nav-link active">
-                    <a href="index">
+                    <a href="index.php">
                         <i class='bx bx-home-alt icon'></i>
                         <span class="text nav-text">Dashboard</span>
                     </a>
@@ -79,21 +79,21 @@ require "queries/classes/Infrastructure.php";
                 </li>
 
                 <li class="nav-link">
-                    <a href="pages/manage">
+                    <a href="pages/manage.php">
                         <i class='bx bx-cabinet icon'></i>
                         <span class="text nav-text">Manage</span>
                     </a>
                 </li>
 
                 <li class="nav-link">
-                    <a href="pages/pickup">
+                    <a href="pages/pickup.php">
                         <i class='bx bx-trash-alt icon'></i>
 
                         <span class="text nav-text">Pickups</span>
                     </a>
                 </li>
                 <li class="nav-link">
-                    <a href="pages/cases">
+                    <a href="pages/cases.php">
                         <i class='bx bx-user-voice icon'></i>
                         <span class="text nav-text">Cases</span>
                     </a>
@@ -129,7 +129,7 @@ require "queries/classes/Infrastructure.php";
                             <img src="images/fluent_data-treemap-20-filled.svg" alt=""/>
                         </div>
                         <div class="stats">
-                            <a href="../index.php">
+                            <a href="takamap.com" target="_blank">
                                 <p class="label" style="color: #fff">View Map</p>
                             </a>
                         </div>

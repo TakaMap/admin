@@ -128,7 +128,7 @@ $(document).ready(function () {
           }, 4000);
 
           document.getElementById("approveform").reset();
-          window.location.href = "pickup";
+          window.location.href = "pickup.php";
         }
       })
       .catch(console.error);

@@ -181,7 +181,7 @@ require "../queries/classes/InfrastructureTypes.php";
 
                 <ul class="menu-links">
                     <li class="nav-link ">
-                        <a href="../index">
+                        <a href="../index.php">
                             <i class='bx bx-home-alt icon'></i>
                             <span class="text nav-text">Dashboard</span>
                         </a>
@@ -190,14 +190,14 @@ require "../queries/classes/InfrastructureTypes.php";
 
 
                     <li class="nav-link active">
-                        <a href="newType">
+                        <a href="infrastructure_types.php">
                             <i class='bx bx-candles  icon'></i>
                             <span class="text nav-text">Type</span>
                         </a>
                     </li>
 
                     <li class="nav-link">
-                        <a href="manage">
+                        <a href="manage.php">
                             <i class='bx bx-cabinet icon'></i>
                             <span class="text nav-text">Manage</span>
                         </a>
@@ -205,14 +205,14 @@ require "../queries/classes/InfrastructureTypes.php";
 
 
                     <li class="nav-link">
-                        <a href="pickup">
+                        <a href="pickup.php">
                             <i class='bx bx-trash-alt icon'></i>
                             <span class="text nav-text">Pickups</span>
                         </a>
                     </li>
 
                     <li class="nav-link">
-                        <a href="cases">
+                        <a href="cases.php">
                             <i class='bx bx-user-voice icon'></i>
                             <span class="text nav-text">Cases</span>
                         </a>

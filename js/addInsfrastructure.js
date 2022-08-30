@@ -204,7 +204,7 @@ $(document).ready(function () {
                     }, 4000);
 
                     document.getElementById("approveform").reset();
-                    window.location.href = "manage";
+                    window.location.href = "manage.php";
                 }
             })
             .catch(console.error);

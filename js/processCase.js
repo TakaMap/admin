@@ -128,7 +128,7 @@ $(document).ready(function () {
           }, 4000);
 
           document.getElementById("approveform").reset();
-          window.location.href = "cases";
+          window.location.href = "cases.php";
         }
       })
       .catch(console.error);
